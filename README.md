@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer for some time now
 -------------------------------
 
-In 2022 I decided to change my profession and started a school for web frontend development. And now I'm here - learning new things every day.*
+In 2022 I decided to change my profession and started a school for web frontend development. And now I'm here - learning new things every day.\
 
 🌍  I'm based in Germany*
 🧠  I'm learning VueJS and NestJS*
