@@ -7,9 +7,6 @@ Web Developer for some time now
 In 2022 I decided to change my profession and started a school for web frontend development. And now I'm here - learning new things every day.
 
 🌍  I'm based in Germany <br>
-🧠  I'm learning VueJS and NestJS <br>
-🤝  I'm open to collaborating on Web apps -> <br>
-⚡  I am looking for a project to do in my spare time. Recently I started a project where I can log clan events from a mobile game for member data.
 
 For work I'm more active on Gitlab and for personal use I use Gitea.
 
